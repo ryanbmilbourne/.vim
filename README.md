@@ -7,7 +7,6 @@ To install:
 cd ~
 git clone https://github.com/ryanbmilbourne/.vim.git
 ln -s ~/.vim/vimrc ~/.vimrc
-ln -s ~/.vim/gvimrc ~/.gvimrc
 cd ~/.vim
 ```
 
